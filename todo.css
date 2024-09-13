@@ -1,0 +1,11 @@
+.form-select{
+    border : 2px solid black;
+    text-align: center;
+    font-weight: bold;
+    
+    
+    width:200px;
+}
+select option{
+    font-weight: bold;
+}
